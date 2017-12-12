@@ -1,0 +1,24 @@
+.top {
+  width: 250px;
+  height: auto;
+  margin-top: 70px;
+  text-align:center;
+}
+
+.btn {
+ font-size: 15px;
+  width: 40px;
+  height: 30px;
+  background-color: white;
+  border: 0;
+  margin: 5px 4px;
+  cursor: pointer;
+}
+
+.text {
+  margin-bottom: 20px;
+  background-color: #D9EEF9;
+  height: 35px;
+  width: 200px;
+  font-size: 30px;
+}
